@@ -5,20 +5,20 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version ruby "3.0.0"
 
-* System dependencies
+* System dependencies 
 
-* Configuration
+* Configuration   install Rails 7.0.2.2
 
-* Database creation
+* Database creation   Rails g scaffold book name:string 
 
-* Database initialization
+* Database initialization Rails db:migrate 
 
-* How to run the test suite
+* How to run the rails server  Rails s 
 
-* Services (job queues, cache servers, search engines, etc.)
+* 
 
-* Deployment instructions
+* 
 
 * ...
